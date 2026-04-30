@@ -1,8 +1,10 @@
 # PROJECTS Unsupervised Machine Learning
 The North Face ecommerce
 300 min
-THE NORTH FACE LOGO
-Company's Description 📇
+
+<img width="643" height="643" alt="image" src="https://github.com/user-attachments/assets/9fe4b739-1a6e-4e95-800a-6b0f9a3f4599" />
+
+# Company's Description 📇
 
 The North Face is an American outdoor recreation product company, founded in 1968 to supply climbers. The North Face produces clothing, footwear, and outdoor equipment. By the late 1990s customers had expanded beyond outdoor enthusiasts and in the 2000s it became a fashion style symbol.
 Project 🚧
