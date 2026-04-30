@@ -1,6 +1,5 @@
 # PROJECTS Unsupervised Machine Learning
 The North Face ecommerce
-300 min
 
 <img width="643" height="643" alt="image" src="https://github.com/user-attachments/assets/9fe4b739-1a6e-4e95-800a-6b0f9a3f4599" />
 
@@ -28,12 +27,7 @@ The project can be cut into three steps :
 
 Scope of this project 🖼️
 
-In this project, you'll work with a corpus of item descriptions from The North Face's product catalog. Data can be found here:
-
-👉👉 The North Face product catalog 👈👈
-Helpers 🦮
-
-To help you achieve this project, here are a few tips that should help you:
+In this project, i'll work with a corpus of item descriptions from The North Face's product catalog. 
 Preprocessing of textual data
 
     First, you'll have to make some preprocessings to clean the corpus (in particular, don't forget to handle stop words and to lemmatize the documents). For this step, you'll need pandas and spacy.
@@ -49,7 +43,7 @@ For this part, you'll have to train a clustering model that will create groups o
 
 Part 2 - Recommender system
 
-Then, you can use the cluster ids from part 1 to build a recommender system. The aim is to be able to suggest to a user some products that are similar to the ones he is interested in. To do this, we will consider that products belonging to the same cluster are similar.
+Then, i can use the cluster ids from part 1 to build a recommender system. The aim is to be able to suggest to a user some products that are similar to the ones he is interested in. To do this, we will consider that products belonging to the same cluster are similar.
 
     Create a function named find_similar_items that takes an argument item_id representing the id of a product, and that returns a list of 5 item ids that belong to the same cluster as the product passed in argument
     Use python's input() function to allow the user to choose a product and perform some suggestions of similar items
@@ -66,7 +60,7 @@ The aim is to use an LSA model to automatically extract latent topics in the pro
 
 Deliverable 📬
 
-To complete this project, your team should:
+Objective of this project:
 
     Train at least one clustering model on the corpus and display wordclouds describing the clusters
     Develop a simple python code that allows a user to type the id of a product he's interested in, and then get a list of similar items
