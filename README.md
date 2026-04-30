@@ -15,7 +15,7 @@ They have identified two major solutions that could have a huge effect on the co
     Deploying a recommender system that will allow to suggest additionnal products to users, that are similar to the items they are already interested in. The recommendations could be materialized by a "you might also be interested by these products..." section that would appear on each product page of the website.
     Improving the structure of the products catalog thanks to topic extraction. The idea is to use unsupervised methods to challenge the existing categories : is it possible to find new categories of product that would be more suitable for the navigation on the website ?
 
-Goals 🎯
+### Goals 🎯
 
 The project can be cut into three steps :
 
@@ -25,7 +25,7 @@ The project can be cut into three steps :
 
     Use topic modeling algorithms to automatically assess the latent topics present in the item descriptions.
 
-Scope of this project 🖼️
+### Scope of this project 🖼️
 
 In this project, i'll work with a corpus of item descriptions from The North Face's product catalog. 
 Preprocessing of textual data
@@ -58,7 +58,7 @@ The aim is to use an LSA model to automatically extract latent topics in the pro
     Contrary to clustering, LSA allows to map each document to a mixing of several topics. For this reason, it's a bit more difficult to interpret the topics as categories : one document can actually be related to several topics at a time. To make things easier, consider extracting the main topic of each document.
     As in part 1, you can display wordclouds to analyze the results.
 
-Deliverable 📬
+### Deliverable 📬
 
 Objective of this project:
 
